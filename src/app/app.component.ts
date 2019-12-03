@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular-Form';
+  // title = 'Angular-Form';
+  courses = ['Angular', 
+             'React', 
+             'NodeJS', 
+             'MongoDB', 
+             'Express', 
+             'React Native']
 }
